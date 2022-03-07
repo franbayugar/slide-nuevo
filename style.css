@@ -8,7 +8,7 @@
     src: url('fonts/Geomanist-ExtraLight.otf');
 }
 
-.title h1{
+.tittle h1{
     font-family: 'GeomanistReg', sans-serif;
     font-size: 45px;
     font-weight: 250;
@@ -16,7 +16,7 @@
 
 }
 
-.title h2{
+.tittle h2{
     font-family: 'GeomanistExtLight', sans-serif;
     font-size: 82px;
     font-weight: 100;
